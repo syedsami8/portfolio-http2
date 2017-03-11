@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# Version 1
+index.html
+css/style.css
+main.js
+offline.appcache
+css/images/image1.jpg
+css/images/image2.jpg
+css/images/image3.jpg
+css/images/image4.jpg
+css/images/image5.jpg
+css/images/image6.jpg
+
+NETWORK:
+*
+
+FALLBACK:
+
+
